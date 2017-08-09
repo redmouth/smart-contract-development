@@ -1,8 +1,7 @@
 # Ethereum Smart Contract Development
 tutorials to start smart contract development
 
-Prequisit
-
+# Prerequisite
 install ethereumjs-testrpc, the ethereum test network
 ```
 npm install -g ethereumjs-testrpc
