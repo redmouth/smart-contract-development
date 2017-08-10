@@ -18,6 +18,28 @@ $ sudo npm install -g truffle
 [Truffle guide](http://truffleframework.com/docs/getting_started/installation)
 
 
+```
+$ truffle networks
+The following networks are configured to match any network id ('*'):
+
+    development
+
+Closely inspect the deployed networks below, and use `truffle networks --clean` to remove any networks that don't match your configuration. You should not use the wildcard configuration ('*') for staging and production networks for which you intend to deploy your application.
+
+Network: UNKNOWN (id: 1502336587154)
+  ConvertLib: 0xfe623d0f5fae43717260fffc3f79e639528f8d9a
+  MetaCoin: 0x6af4bf83597002c9fe97417f2a503a9a86075f8e
+  Migrations: 0xfca32805324c6a5253ad9bda4713f7224016141c
+  ProofOfExistence: 0x1b38f052ddf8c808ea6feba48275de8f22912a8c
+  
+```
+
+```
+$ truffle console
+truffle(development)> p = ProofOfExistence.at("0x1b38f052ddf8c808ea6feba48275de8f22912a8c")
+truffle(development)> p.address
+'0x1b38f052ddf8c808ea6feba48275de8f22912a8c'
+```
 
 # Reference
 https://github.com/OpenZeppelin/zeppelin-solidity
