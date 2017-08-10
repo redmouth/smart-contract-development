@@ -11,7 +11,7 @@ Start the network:
 $ testrpc
 ```
 
-# Install Truffle
+Install Truffle
 ```
 $ sudo npm install -g truffle
 ```
@@ -21,4 +21,5 @@ $ sudo npm install -g truffle
 
 # Reference
 https://github.com/OpenZeppelin/zeppelin-solidity
+
 https://blog.zeppelin.solutions/the-hitchhikers-guide-to-smart-contracts-in-ethereum-848f08001f05
