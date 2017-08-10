@@ -17,6 +17,28 @@ $ sudo npm install -g truffle
 ```
 [Truffle guide](http://truffleframework.com/docs/getting_started/installation)
 
+Create an example solidity ProofOfExistence.sol undere directory ./contracts:
+```
+pragma solidity ^0.4.4;
+
+
+contract ProofOfExistence {
+    bytes32 public proof;
+
+    function ProofOfExistence() {
+        // constructor
+    }
+
+    function notarize(string document) {
+        proof = calculateProof(document);
+    }
+
+    function calculateProof(string document) constant returns (bytes32) {
+        return sha256(document);
+    }
+}
+
+```
 
 Show addresses for deployed contracts on each network
 ```
