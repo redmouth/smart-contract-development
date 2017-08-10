@@ -59,9 +59,9 @@ Network: UNKNOWN (id: 1502336587154)
   MetaCoin: 0x6af4bf83597002c9fe97417f2a503a9a86075f8e
   Migrations: 0xfca32805324c6a5253ad9bda4713f7224016141c
   ProofOfExistence: 0x1b38f052ddf8c808ea6feba48275de8f22912a8c
-  
 ```
 
+Interact with the network
 ```
 $ truffle console
 truffle(development)> p = ProofOfExistence.at("0x1b38f052ddf8c808ea6feba48275de8f22912a8c")
