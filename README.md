@@ -17,6 +17,7 @@ $ sudo npm install -g truffle
 ```
 [Truffle guide](http://truffleframework.com/docs/getting_started/installation)
 
+# Create new contract
 Create an example solidity ProofOfExistence.sol undere directory ./contracts:
 ```
 pragma solidity ^0.4.4;
