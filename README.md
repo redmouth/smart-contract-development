@@ -18,6 +18,7 @@ $ sudo npm install -g truffle
 [Truffle guide](http://truffleframework.com/docs/getting_started/installation)
 
 
+Show addresses for deployed contracts on each network
 ```
 $ truffle networks
 The following networks are configured to match any network id ('*'):
