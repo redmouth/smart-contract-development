@@ -37,7 +37,11 @@ contract ProofOfExistence {
         return sha256(document);
     }
 }
+```
 
+Deploy the contract:
+```
+$ truffle migrate
 ```
 
 Show addresses for deployed contracts on each network
