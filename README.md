@@ -72,4 +72,5 @@ truffle(development)> p.address
 # Reference
 https://openzeppelin.org/ <br>
 https://github.com/OpenZeppelin/zeppelin-solidity <br>
-https://blog.zeppelin.solutions/the-hitchhikers-guide-to-smart-contracts-in-ethereum-848f08001f05
+https://blog.zeppelin.solutions/the-hitchhikers-guide-to-smart-contracts-in-ethereum-848f08001f05 <br>
+https://theethereum.wiki/w/index.php/ERC20_Token_Standard
