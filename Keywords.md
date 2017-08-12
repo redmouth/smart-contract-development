@@ -1,6 +1,5 @@
 # payable
-When someone transfer funds to your contract, the function with **payable** modifier executes automatically. Example of payable function.
-
+When someone transfer funds to your contract, the function with **payable** modifier executes automatically. Example of payable function:
 ```
 contract token{ 
   function () payable {
