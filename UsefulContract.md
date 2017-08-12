@@ -1,4 +1,4 @@
 # Collection of Contracts
 
-1 MintableToken <br>
+1 MintableToken: A token that can increase its supply by another contract, allowing uncapped crowdsale by dynamically increasing the supply when money pours in
 &nbsp;&nbsp;[1](https://github.com/TokenMarketNet/ico/blob/master/contracts/MintableToken.sol)
