@@ -1,4 +1,4 @@
-#. Global Variables
+#. Global Variables <br>
 http://solidity.readthedocs.io/en/develop/units-and-global-variables.html
 
 0. Address of contract <br>
