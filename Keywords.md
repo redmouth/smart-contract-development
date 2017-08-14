@@ -11,3 +11,6 @@ contract token{
   }
 }
 ```
+
+# super
+https://ethereum.stackexchange.com/questions/12920/what-does-the-keyword-super-in-solidity-do
