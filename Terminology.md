@@ -1,6 +1,6 @@
-#DAO
-decentralised autonomous organisation
+# DAO
+decentralised autonomous organisation <br>
 https://github.com/randao/randao
 
-#Dapps
+# Dapps
 Decentralized apps
