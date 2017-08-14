@@ -1,3 +1,6 @@
+#. Global Variables
+http://solidity.readthedocs.io/en/develop/units-and-global-variables.html
+
 0. Address of contract <br>
 The address for an Ethereum contract is deterministically computed from the address of its creator (sender) and how many transactions the creator has sent (nonce). The sender and nonce are RLP encoded and then hashed with Keccak-256. <br>
 https://ethereum.stackexchange.com/questions/760/how-is-the-address-of-an-ethereum-contract-computed <br>
