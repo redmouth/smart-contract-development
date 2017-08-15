@@ -11,4 +11,7 @@ https://ethereum.stackexchange.com/questions/760/how-is-the-address-of-an-ethere
 2. msg.sender.send(number)  vs  msg.sender.call.value(number)() <br>
 
 3. this.balance <br>
-   When a contributor transfers fund to smart contract, the default balance(this.balance) is automatically increased.
+   When a contributor transfers fund to smart contract, the default balance(this.balance) is automatically increased. <br>
+   
+4. Get the balance of account <br>
+   https://stackoverflow.com/questions/32312884/how-do-i-get-the-balance-of-an-account-in-ethereum <br>
