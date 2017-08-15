@@ -13,4 +13,7 @@ contract token{
 ```
 
 # super
-https://ethereum.stackexchange.com/questions/12920/what-does-the-keyword-super-in-solidity-do
+https://ethereum.stackexchange.com/questions/12920/what-does-the-keyword-super-in-solidity-do <br>
+
+# indexed
+https://ethereum.stackexchange.com/questions/8658/what-does-the-indexed-keyword-do
