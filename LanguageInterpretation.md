@@ -8,5 +8,7 @@ https://ethereum.stackexchange.com/questions/760/how-is-the-address-of-an-ethere
 1. Difference between 'msg.sender' and 'tx.origin' <br>
    https://ethereum.stackexchange.com/questions/1891/whats-the-difference-between-msg-sender-and-tx-origin <br>
 
-2. msg.sender.send(number)  vs  msg.sender.call.value(number)()
+2. msg.sender.send(number)  vs  msg.sender.call.value(number)() <br>
 
+3. this.balance <br>
+   When a contributor transfers fund to smart contract, the default balance(this.balance) is automatically increased.
