@@ -20,3 +20,6 @@ https://ethereum.stackexchange.com/questions/8658/what-does-the-indexed-keyword-
 
 # external, internal functions
 http://solidity.readthedocs.io/en/latest/contracts.html#events <br>
+
+# message call
+https://ethereum.stackexchange.com/questions/12065/what-is-the-difference-between-a-call-message-call-and-a-message <br>
