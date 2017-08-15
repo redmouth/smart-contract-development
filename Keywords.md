@@ -16,4 +16,7 @@ contract token{
 https://ethereum.stackexchange.com/questions/12920/what-does-the-keyword-super-in-solidity-do <br>
 
 # indexed
-https://ethereum.stackexchange.com/questions/8658/what-does-the-indexed-keyword-do
+https://ethereum.stackexchange.com/questions/8658/what-does-the-indexed-keyword-do <br>
+
+# external, internal functions
+http://solidity.readthedocs.io/en/latest/contracts.html#events <br>
