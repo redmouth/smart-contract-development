@@ -15,3 +15,6 @@ https://ethereum.stackexchange.com/questions/760/how-is-the-address-of-an-ethere
    
 4. Get the balance of account <br>
    https://stackoverflow.com/questions/32312884/how-do-i-get-the-balance-of-an-account-in-ethereum <br>
+
+5. Estimate the gas needed to make a contract call <br>
+   https://ethereum.stackexchange.com/questions/197/how-do-i-know-how-much-gas-to-use-when-calling-a-contract
