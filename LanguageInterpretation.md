@@ -21,3 +21,4 @@ https://ethereum.stackexchange.com/questions/760/how-is-the-address-of-an-ethere
    
 6. Gas <br>
    https://ethereum.stackexchange.com/questions/3/what-is-meant-by-the-term-gas <br>
+   Every operation that can be performed by a transaction or contract on the Ethereum platform costs a certain number of gas, with operations that require more computational resources costing more gas than operations that require few computational resources.
