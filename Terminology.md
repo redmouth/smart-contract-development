@@ -10,10 +10,10 @@ The height of a block is the number of blocks in the chain between it and the ge
 The height of the block chain is usually taken to be the height of the highest block, in the chain with greatest total difficulty; i.e. the length of the chain minus one. <br>
 https://bitcoin.stackexchange.com/questions/18561/definition-of-blockchain-height
 
-# POS vs POW
+# POS vs POW (proof of Stake, proof of work)
 https://bitcoin.stackexchange.com/questions/43467/whats-the-difference-between-pow-and-pos <br>
 1. A cryptocurrency has its own blockchain to store all the transactions that occurred.
-2. A proof of work/stake algorithm are different methods (or algorithms) to achieve consensus on which block will be added next to the blockchain
+2. POW and POS are different methods (or algorithms) to achieve consensus(not censorship) on which block will be added next to the blockchain
 3. Proof of work (PoW) requires proof that work of some kind occurred. In the case of Bitcoin miners are required to do this work before any of their blocks is accepted by others.
 4. Proof of stake (PoS) requires users that have a high stake at the currency (i.e. hold a lot of coins) to determine the next block. This has a high risk of some party achieving monopoly of the currency but there are several methods to prevent that (by allocating random stakeholders to agree on a new block, and others). <br><br>
 
