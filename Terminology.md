@@ -20,7 +20,7 @@ https://bitcoin.stackexchange.com/questions/43467/whats-the-difference-between-p
 The main difference could be summarized in that proof of work requires burning an external resource (mining hardware) while proof of stake does not. Proof of work could be criticized that if price/bitcoin rewards/fees drop then less people have incentives to mine thus the security of the system is reduced. Proof of stake could be criticized that since it is free to stake/add new blocks to the blockchain you could use it to stake several similar coins at the same time (see "nothing at stake" problem in PoS link above). <br>
 
 Examples:
-* **Bitcoin, Litecoin and many others uses the PoW method.**
-* **NXT, BitShares and others uses the PoS method.**
+* Bitcoin, Litecoin and many others uses the PoW method.
+* NXT, BitShares and others uses the PoS method.
 * **Ethereum uses PoW but is scheduled to change to PoS.**
-* **Peercoin uses a combination of PoW and PoS.**
+* Peercoin uses a combination of PoW and PoS.
