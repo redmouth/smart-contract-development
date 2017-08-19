@@ -11,7 +11,7 @@ The height of the block chain is usually taken to be the height of the highest b
 https://bitcoin.stackexchange.com/questions/18561/definition-of-blockchain-height
 
 # POS vs POW
-https://bitcoin.stackexchange.com/questions/43467/whats-the-difference-between-pow-and-pos
+https://bitcoin.stackexchange.com/questions/43467/whats-the-difference-between-pow-and-pos <br>
 A cryptocurrency has its own blockchain to store all the transactions that occurred.
 A proof of work/stake algorithm are different methods (or algorithms) to achieve consensus on which block will be added next to the blockchain
 Proof of work (PoW) requires proof that work of some kind occurred. In the case of Bitcoin miners are required to do this work before any of their blocks is accepted by others.
