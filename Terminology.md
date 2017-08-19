@@ -12,14 +12,14 @@ https://bitcoin.stackexchange.com/questions/18561/definition-of-blockchain-heigh
 
 # POS vs POW
 https://bitcoin.stackexchange.com/questions/43467/whats-the-difference-between-pow-and-pos <br>
-A cryptocurrency has its own blockchain to store all the transactions that occurred.
-A proof of work/stake algorithm are different methods (or algorithms) to achieve consensus on which block will be added next to the blockchain
-Proof of work (PoW) requires proof that work of some kind occurred. In the case of Bitcoin miners are required to do this work before any of their blocks is accepted by others.
-Proof of stake (PoS) requires users that have a high stake at the currency (i.e. hold a lot of coins) to determine the next block. This has a high risk of some party achieving monopoly of the currency but there are several methods to prevent that (by allocating random stakeholders to agree on a new block, and others).
+1. A cryptocurrency has its own blockchain to store all the transactions that occurred.
+2. A proof of work/stake algorithm are different methods (or algorithms) to achieve consensus on which block will be added next to the blockchain
+3. Proof of work (PoW) requires proof that work of some kind occurred. In the case of Bitcoin miners are required to do this work before any of their blocks is accepted by others.
+4. Proof of stake (PoS) requires users that have a high stake at the currency (i.e. hold a lot of coins) to determine the next block. This has a high risk of some party achieving monopoly of the currency but there are several methods to prevent that (by allocating random stakeholders to agree on a new block, and others).
 The main difference could be summarized in that proof of work requires burning an external resource (mining hardware) while proof of stake does not. Proof of work could be criticized that if price/bitcoin rewards/fees drop then less people have incentives to mine thus the security of the system is reduced. Proof of stake could be criticized that since it is free to stake/add new blocks to the blockchain you could use it to stake several similar coins at the same time (see "nothing at stake" problem in PoS link above).
 
 Examples:
-Bitcoin, Litecoin and many others uses the PoW method.
-NXT, BitShares and others uses the PoS method.
-Ethereum uses PoW but is scheduled to change to PoS.
-Peercoin uses a combination of PoW and PoS.
+**Bitcoin, Litecoin and many others uses the PoW method.**
+**NXT, BitShares and others uses the PoS method.**
+**Ethereum uses PoW but is scheduled to change to PoS.**
+**Peercoin uses a combination of PoW and PoS.**
