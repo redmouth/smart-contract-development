@@ -24,3 +24,6 @@ Examples:
 * NXT, BitShares and others uses the PoS method.
 * **Ethereum uses PoW but is scheduled to change to PoS.**
 * Peercoin uses a combination of PoW and PoS.
+
+reference
+1. https://github.com/ethereum/wiki/wiki/Proof-of-Stake-FAQ
