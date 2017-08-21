@@ -8,3 +8,5 @@ imagining Ethereum as a metaphor for a shared computer, it should be noted that 
 1. Contracts: decentralized logic
 2. Swarm: decentralized storage
 3. Whisper: decentralized messaging
+
+# Certificate based on Blockchain
