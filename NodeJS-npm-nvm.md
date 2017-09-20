@@ -7,3 +7,6 @@ $ command -v nvm
 ##### Install nodeJS
 install longterm support<br>
 $ nvm install --lts
+
+##### Set lts version as default node
+$ nvm alias default lts/*
