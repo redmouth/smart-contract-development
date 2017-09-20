@@ -10,3 +10,7 @@ $ nvm install --lts
 
 ##### Set lts version as default node
 $ nvm alias default lts/*
+
+
+# Source Shell Function
+https://stackoverflow.com/questions/40165593/what-is-a-sourced-shell-function
