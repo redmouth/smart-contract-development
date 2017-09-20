@@ -74,3 +74,4 @@ https://openzeppelin.org/ <br>
 https://github.com/OpenZeppelin/zeppelin-solidity <br>
 https://blog.zeppelin.solutions/the-hitchhikers-guide-to-smart-contracts-in-ethereum-848f08001f05 <br>
 https://theethereum.wiki/w/index.php/ERC20_Token_Standard
+https://github.com/ethereum/EIPs/blob/master/EIPS/eip-20-token-standard.md
