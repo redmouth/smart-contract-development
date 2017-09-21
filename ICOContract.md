@@ -6,3 +6,9 @@
 
 2. RANDAO: A DAO working as RNG of Ethereum (random number generator) <br>
 https://github.com/randao/randao
+
+3. Firstblood's ICO token<br>
+https://github.com/Firstbloodio/token/blob/master/smart_contract/FirstBloodToken.sol
+
+4. ICO contracts<br>
+https://github.com/TokenMarketNet/ico/tree/master/contracts
