@@ -17,6 +17,19 @@ $ sudo npm install -g truffle
 ```
 [Truffle guide](http://truffleframework.com/docs/getting_started/installation)
 
+# Geth--testnet
+Create test account if it does not exist
+```
+$ geth --testnet account new
+```
+Start geth with testnet
+```
+geth --testnet console
+```
+https://ethereum.stackexchange.com/questions/3380/how-to-enable-and-mine-testnet-morden
+
+
+
 # Create new contract
 Create an example solidity ProofOfExistence.sol undere directory ./contracts:
 ```
